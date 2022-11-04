@@ -20,7 +20,7 @@ Este Projeto e uma aplicacao back-end e front-end, o chat ultiza a tecnologia so
 # clonar repositório
 git clone https://github.com/marciosenaf/chat-websocket
 
-Fetch dependencies:
+instalar dependencies:
 npm install
 
 # executar o back-end (server.js)
